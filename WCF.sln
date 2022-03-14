@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService", "WcfService\WcfService.csproj", "{5EDA3EF2-D1C2-423B-8146-AFF1866CACE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostingMain", "HostingMain\HostingMain.csproj", "{BF017130-3D00-4F35-99DC-96F61AF6D7DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CF6E3D5B-555E-4C8E-9F87-3F0CDE6E986D}"
+	ProjectSection(SolutionItems) = preProject
+		XMLSchema1.xsd = XMLSchema1.xsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EDA3EF2-D1C2-423B-8146-AFF1866CACE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDA3EF2-D1C2-423B-8146-AFF1866CACE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDA3EF2-D1C2-423B-8146-AFF1866CACE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDA3EF2-D1C2-423B-8146-AFF1866CACE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF017130-3D00-4F35-99DC-96F61AF6D7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF017130-3D00-4F35-99DC-96F61AF6D7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF017130-3D00-4F35-99DC-96F61AF6D7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF017130-3D00-4F35-99DC-96F61AF6D7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3283DEB-CBB0-4D55-A43F-419A21667AEF}
+	EndGlobalSection
+EndGlobal
